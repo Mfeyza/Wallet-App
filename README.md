@@ -23,7 +23,7 @@ Clone or download the project to your local computer.
 In the project folder, open the index.html file with a web browser.
 You can start using the application.
 
-Ekran görüntüsü 2024-01-12 014501.png
+
 
 Usage
 On the main page, enter your income and click the 'Add' button.
@@ -32,6 +32,9 @@ Your expenses will be listed in a table, and the total income, expenses, and rem
 You can reset all data at any time using the 'Clear Information' button.
 Technical Details
 This application is built using HTML, CSS, and JavaScript. Data is stored in the local storage of the user's browser.
+
+
+<img src="./Ekran görüntüsü 2024-01-12 014501.png"  width="90.5%" height="550" />
 
 
 
