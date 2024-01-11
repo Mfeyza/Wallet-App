@@ -23,8 +23,7 @@ Clone or download the project to your local computer.
 In the project folder, open the index.html file with a web browser.
 You can start using the application.
 
-
-
+Ekran görüntüsü 2024-01-12 014501.png
 
 Usage
 On the main page, enter your income and click the 'Add' button.
